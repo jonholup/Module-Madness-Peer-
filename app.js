@@ -1,4 +1,4 @@
-// module one
+// module 1
 var moduleOne = require('./utils/module-one.js');
 console.log(moduleOne.randomNumber(100, 1000000));
 
